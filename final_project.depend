@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1687769948 source:c:\users\hossein\desktop\final_project\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<tuple>
+	<queue>
+	<list>
+	<set>
+
